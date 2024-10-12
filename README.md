@@ -1,6 +1,6 @@
 # Multi-Frame OCT and Fundus Image Analysis for BCVA Prediction
 
-This repository contains the source code for a program that predicts Best Corrected Visual Acuity (BCVA) in patients by analyzing multiple frames of Macular Optical Coherence Tomography (OCT), multiple frames of Optic Disc OCT, and fundus images across various eye diseases.
+This repository contains the source code for a model that predicts Best Corrected Visual Acuity (BCVA) in patients by analyzing multiple frames of Macular Optical Coherence Tomography (OCT), multiple frames of Optic Disc OCT, and fundus images across various eye diseases.
 
 ## Overview
 
